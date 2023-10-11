@@ -1,0 +1,17 @@
+.copy-btn{
+  border: 1px solid blue;
+  padding: 5px 20px;
+  font-size: 12px;
+  margin-left: 10px;
+  background: black;
+  color: #fff;
+}
+
+input.password {
+  width: 300px;
+  padding: 10px 20px;
+  font-size: 18px;
+  border-radius: 5px;
+  border: 1px solid #b5b1b1;
+  margin-bottom: 40px;
+}
